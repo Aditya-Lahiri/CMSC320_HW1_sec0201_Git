@@ -1,0 +1,3 @@
+Q2: What field could data science be applied to? Give an Example.
+
+Answer: Data Science can easily be applied to biology to make sense of experimental results. If you're running an experiment on fruitfly breeding rates, and have a huge amount of data, data science can help you clean up your data, find relevant trends, and run statistical analyses.
