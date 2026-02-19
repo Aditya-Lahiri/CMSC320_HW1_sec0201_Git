@@ -6,3 +6,10 @@ Q2: What field could data science be applied to? Give an Example.
 
 Answer: Data Science can easily be applied to biology to make sense of experimental results. If you're running an experiment on fruitfly breeding rates, and have a huge amount of data, data science can help you clean up your data, find relevant trends, and run statistical analyses.
 
+Q3: What is the difference between Merging and Rebasing?
+
+Answer: Merging maintains the history of branches, while rebasing rewrites the history to clean it up.
+
+Q4: What are you looking forward to this semester?
+
+Answer: Learning how to apply statistical techniques I learned in previous classes.
